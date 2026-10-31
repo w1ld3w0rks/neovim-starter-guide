@@ -206,3 +206,9 @@ Then use `:Telescope find_files`, `i` to edit, `Esc`, `:w` to save, `gd` for def
 - **Mason** manages language servers, formatters, and linters.
 - **Treesitter** provides code parsing and syntax features.
 - **tmux** manages terminal panes around Neovim.
+
+## Attribution and project scope
+
+This is my personal Neovim build and starter guide. I built and adapted it for my own workflow, using [Josean Martinez's `dev-environment-files`](https://github.com/josean-dev/dev-environment-files) as the foundation and reference.
+
+The project is an independent build, not an official Josean repository or release. Josean's work is credited here because the setup, ideas, and configuration patterns were the starting point for this version.
